@@ -1,6 +1,9 @@
 # HeartBeatAnimation
  
-android 心跳动画实现，使用方便简单。 /n
+android 心跳动画实现，使用方便简单。 
+
+![Circle animation](https://github.com/HHcola/HeartBeatAnimation/blob/master/dots.gif "Circle animation")
+
  
 使用方法：
 
