@@ -1,6 +1,6 @@
 # HeartBeatAnimation
  
-android 心跳动画实现，使用方便简单。
+android 心跳动画实现，使用方便简单。 /n
  
 使用方法：
 
